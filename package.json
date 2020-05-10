@@ -23,7 +23,10 @@
     "gulp": "^4.0.2",
     "webpack": "^4.41.2",
     "webpack-stream": "^5.2.1",
-    "acorn": ">=6.4.1"
+    "acorn": ">=6.4.1",
+    "minimist": ">=1.2.3",
+    "kind-of": ">=6.0.3",
+    "serialize-javascript": ">=2.1.1"
   },
   "dependencies": {
     "jquery": "^3.5.1",
