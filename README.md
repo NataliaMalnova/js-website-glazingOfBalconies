@@ -1,6 +1,6 @@
 # Сайт для остекления балконов и лоджий в Москве и Московской области
 
-[Demo](http://natalia-malnova.ru/irvas/)
+[Demo](http://natalia-malnova.ru/work/irvas/)
 
 ## Функционал
 
